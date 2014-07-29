@@ -48,19 +48,29 @@ void numberWithArray(int array[9], int x, int y);
 void getArray(int array[9], int x, int y);
 
 /**
- *  获取2个数组的交集
+ *  获取2个数组的并集
  *
  *  @param array       第1个数组
  *  @param otherArray  第2个数组
- *  @param resultArray 交集数组
+ *  @param resultArray 并集数组
  */
 void numberWithArrayAndOtherArray(int array[9], int otherArray[9], int resultArray[9]);
 
+/**
+ *  获取3个数组的并集
+ *
+ *  @param array1      第1个数组
+ *  @param array2      第2个数组
+ *  @param array3      第3个数组
+ *  @param resultArray 并集数组
+ */
+void numberWithThreeArray(int array1[9], int array2[9], int array3[9], int resultArray[9]);
+
 int main(int argc, const char * argv[])
 {
-
+    
     // insert code here...
-    return 0;
+    
 }
 
 
