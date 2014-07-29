@@ -5,7 +5,9 @@ FuckingGoods
 目录下, markdown 语法请[点击查看](https://github.com/atcuan/mark/blob/master/usage/MarkdownSyntax.md)
 
 - [Swift学习笔记](./Markdown/Swift.md)
-- [杨辉三角c代码 by anotherWorld](./src/cDemo)
+- [CDamo](./src/cDemo)
+    - [杨辉三角c代码 by anotherWorld](./src/cDemo)
+    - [数独 by anotherWorld](./src/cDemo/Sudoku.c)
 - [那些年写过的c by atcuan](./src/CodedC)
 	- [二叉树说明](./src/CodedC/binary_tree.txt)
 	- [函数传参](./src/CodedC/pass_parameters.txt)
